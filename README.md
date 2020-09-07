@@ -1,0 +1,2 @@
+# MyProject
+smth interesting
